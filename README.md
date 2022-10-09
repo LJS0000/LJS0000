@@ -14,3 +14,5 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS3-3776AB?style=flat-square&logo=CSS3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=React&logoColor=ffffff"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJS0000&&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jisu2281l)
