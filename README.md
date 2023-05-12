@@ -1,5 +1,4 @@
 ### 😊 Jisu Lee's Github
- → Frontend Developer
 
 
 ### 📑 Stack <br/>
